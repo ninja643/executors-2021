@@ -121,7 +121,6 @@ public class StreamsDemo
 				{2,3,4,...,20,21}
  */
 
-
 		List<Integer> doubleList2 = numbers.stream()
 //			.map(v -> Arrays.asList(2 * v, 2 * v + 1))
 //			.flatMap(v -> Arrays.asList(2 * v, 2 * v + 1).stream())
